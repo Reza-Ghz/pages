@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vocabra/static/css/main.2f0cc4fb.css",
-    "main.js": "/Vocabra/static/js/main.113fdcb6.js",
-    "static/js/453.1929f0ef.chunk.js": "/Vocabra/static/js/453.1929f0ef.chunk.js",
-    "index.html": "/Vocabra/index.html",
-    "main.2f0cc4fb.css.map": "/Vocabra/static/css/main.2f0cc4fb.css.map",
-    "main.113fdcb6.js.map": "/Vocabra/static/js/main.113fdcb6.js.map",
-    "453.1929f0ef.chunk.js.map": "/Vocabra/static/js/453.1929f0ef.chunk.js.map"
+    "main.css": "/pages/static/css/main.2f0cc4fb.css",
+    "main.js": "/pages/static/js/main.62dcbe68.js",
+    "static/js/453.1929f0ef.chunk.js": "/pages/static/js/453.1929f0ef.chunk.js",
+    "index.html": "/pages/index.html",
+    "main.2f0cc4fb.css.map": "/pages/static/css/main.2f0cc4fb.css.map",
+    "main.62dcbe68.js.map": "/pages/static/js/main.62dcbe68.js.map",
+    "453.1929f0ef.chunk.js.map": "/pages/static/js/453.1929f0ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f0cc4fb.css",
-    "static/js/main.113fdcb6.js"
+    "static/js/main.62dcbe68.js"
   ]
 }
